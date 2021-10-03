@@ -1,0 +1,23 @@
+{
+  "home": "Home",
+  "caught": "Caught",
+  "lightTheme": "Light Theme",
+  "darkTheme": "Dark Theme",
+  "hp": "Hp",
+  "attack": "Attack",
+  "defense": "Defense",
+  "specialAttack": "Sp. Atk",
+  "specialDefense": "Sp. Def.",
+  "speed": "Speed",
+  "releasedPokemon": "Pokemon Released",
+  "caughtPokemon": "Pokemon Caught",
+  "favoritePokemon": "Pokemon Added to Favorites",
+  "removeFavoritePokemon": "Pokemon Removed from Favorites",
+  "weight": "Width",
+  "height": "Height",
+  "emptyCaughtPokemonDescription": "No caught pokemon found",
+  "about": "About",
+  "abilities": "Abilities",
+  "moves": "Moves",
+  "notFoundPage": "The page you were looking for was not found"
+}

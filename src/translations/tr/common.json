@@ -1,0 +1,23 @@
+{
+  "home": "Anasayfa",
+  "caught": "Yakalananlar",
+  "lightTheme": "Açık Tema",
+  "darkTheme": "Koyu Tema",
+  "hp": "Sğl. Puanı",
+  "attack": "Saldırı",
+  "defense": "Savunma",
+  "specialAttack": "Özl. Sal.",
+  "specialDefense": "Özl. Sav.",
+  "speed": "Hız",
+  "releasedPokemon": "Pokemon Serbest Bırakıldı",
+  "caughtPokemon": "Pokemon Yakalandı",
+  "favoritePokemon": "Pokemon Favorilere Eklendi",
+  "removeFavoritePokemon": "Pokemon Favorilerden Çıkarıldı",
+  "weight": "Ağırlık",
+  "height": "Boy",
+  "emptyCaughtPokemonDescription": "Yakalanan pokemon bulunamadı",
+  "about": "Hakkında",
+  "abilities": "Yetenekler",
+  "moves": "Hamleler",
+  "notFoundPage": "Aradığınız sayfa bulunamadı"
+}
